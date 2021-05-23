@@ -48,7 +48,7 @@ Observers Setup
 ```
 ### Depreciated Notes
    
-ViewModelProviders is officially depreciated & it's no more maintained by google. For details visit the [link]  (https://developer.android.com/reference/android/arch/lifecycle/ViewModelProviders)
+ViewModelProviders is officially depreciated & it's no more maintained by google. For details visit the -  (https://developer.android.com/reference/android/arch/lifecycle/ViewModelProviders)
 
 ### Additonal Resource
 1. https://blog.mindorks.com/using-retrofit-with-kotlin-coroutines-in-android
